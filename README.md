@@ -42,4 +42,4 @@ radio-carton/
 We appreciate any contributions to the Radio Cartón project! You can contribute in the following ways:
 
 - Development: If you have ideas for new features or improvements, you can submit your proposals through pull requests.
-- Financial support: If you wish to support the project financially, you can do so through donations on the X platform.
+- Financial support: If you wish to support the project financially, you can do so through donations on the DOGE Wallet ----> DDdaWrmtAaeJ19LopejA1VpqYMwi8ZuoEk
